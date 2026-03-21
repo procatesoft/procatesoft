@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=ff007f,00e5ff,8e44ad,2ecc71,f1c40f,e74c3c&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a2e,16213e,0f3460,533483,e94560&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <h1 align="center">
@@ -111,7 +111,7 @@ I\%27m always open to discussing new projects, creative ideas, or opportunities 
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff007f,00e5ff,8e44ad,2ecc71,f1c40f,e74c3c&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a2e,16213e,0f3460,533483,e94560&height=100&section=footer" alt="Footer" />
   <br>
   <i>Generated with ❤️ by Manus AI</i>
 </div>
