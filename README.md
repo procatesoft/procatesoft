@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,3,4,5&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pankaj+Mehta!+👋;Building+Scalable+ERP+SaaS;Crafting+Intelligent+AI+Agents;Driving+Business+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there,+I\%27m+Pankaj+Mehta!+\U0001f44b;Building+Scalable+ERP+SaaS;Crafting+Intelligent+AI+Agents;Driving+Business+Growth&background=0D1117" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 With over **5+ years of hands-on experience**, I am a dedicated and innovative developer based in Sunsari, Inaruwa 🇳🇵. My core expertise lies in architecting and building robust **ERP SaaS solutions** and intelligent **AI agents**. I am passionate about leveraging technology to streamline business operations, enhance decision-making, and drive significant growth.
 
-I thrive on transforming complex business requirements into scalable, efficient, and user-friendly software. My approach focuses on delivering tangible value, whether it's optimizing workflows with custom ERP modules or deploying AI agents that automate tasks and provide actionable insights. I am a strong advocate for clean code, continuous learning, and contributing to the open-source community.
+I thrive on transforming complex business requirements into scalable, efficient, and user-friendly software. My approach focuses on delivering tangible value, whether it\%27s optimizing workflows with custom ERP modules or deploying AI agents that automate tasks and provide actionable insights. I am a strong advocate for clean code, continuous learning, and contributing to the open-source community.
 
 ### 📈 How I Drive Business Growth
 *   **ERP SaaS Architecture:** Designing scalable multi-tenant architectures that support business expansion and operational efficiency.
@@ -77,8 +77,8 @@ I thrive on transforming complex business requirements into scalable, efficient,
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecrushdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f&icon_color=00e5ff&text_color=c9d1d9" alt="Pankaj Mehta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrushdev&theme=radical&hide_border=true&background=0D1117&ring=ff007f&fire=ff007f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=c9d1d9" alt="Pankaj Mehta's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codecrushdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f&icon_color=00e5ff&text_color=c9d1d9" alt="Pankaj Mehta\%27s GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrushdev&theme=radical&hide_border=true&background=0D1117&ring=ff007f&fire=ff007f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=c9d1d9" alt="Pankaj Mehta\%27s GitHub Streak" width="48%" />
 </div>
 
 <br>
@@ -89,9 +89,9 @@ I thrive on transforming complex business requirements into scalable, efficient,
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let\%27s Connect & Collaborate
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+I\%27m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
@@ -111,7 +111,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=100&section=footer" alt="Footer" />
   <br>
   <i>Generated with ❤️ by Manus AI</i>
 </div>
