@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8e44ad,3498db,2ecc71,f1c40f,e67e22,e74c3c&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=ff007f,00e5ff,8e44ad,2ecc71,f1c40f,e74c3c&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there,+I\%27m+Pankaj+Mehta!+\U0001f44b;Building+Scalable+ERP+SaaS;Crafting+Intelligent+AI+Agents;Driving+Business+Growth&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=Hi+there,+I\%27m+Pankaj+Mehta!+\U0001f44b;Building+Scalable+ERP+SaaS;Crafting+Intelligent+AI+Agents;Driving+Business+Growth&background=000000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/codecrushdev">
-    <img src="https://img.shields.io/github/followers/codecrushdev?label=Followers&style=for-the-badge&color=00e5ff&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/codecrushdev?label=Followers&style=for-the-badge&color=ff007f&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/twitter/follow/your-handle?label=Follow&style=for-the-badge&color=1da1f2&logo=twitter" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/your-handle?label=Follow&style=for-the-badge&color=00e5ff&logo=twitter" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@ I\%27m always open to discussing new projects, creative ideas, or opportunities 
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8e44ad,3498db,2ecc71,f1c40f,e67e22,e74c3c&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff007f,00e5ff,8e44ad,2ecc71,f1c40f,e74c3c&height=100&section=footer" alt="Footer" />
   <br>
   <i>Generated with ❤️ by Manus AI</i>
 </div>
