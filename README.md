@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a2e,16213e,0f3460,533483,e94560&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a2e,16213e,0f3460,533483,e94560&height=300&section=header&text=Pankaj%20Mehta&fontSize=90&animation=twinkling&fontAlignY=35&desc=Senior%20TypeScript%20%26%20Python%20Developer%20%7C%20Odoo%20%26%20ERP%20SaaS%20%26%20AI%20Agent%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=Hi+there,+I\%27m+Pankaj+Mehta!+\U0001f44b;Building+Scalable+ERP+SaaS;Crafting+Intelligent+AI+Agents;Driving+Business+Growth&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=Hi+there,+I\%27m+Pankaj+Mehta!+\U0001f44b;Building+Scalable+ERP+SaaS;Odoo+Development+%26+Customization;Crafting+Intelligent+AI+Agents;Driving+Business+Growth&background=000000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,15 +19,17 @@
 
 ## 👨‍💻 The Architect Behind the Code
 
-With over **5+ years of hands-on experience**, I am a dedicated and innovative developer based in Sunsari, Inaruwa 🇳🇵. My core expertise lies in architecting and building robust **ERP SaaS solutions** and intelligent **AI agents**. I am passionate about leveraging technology to streamline business operations, enhance decision-making, and drive significant growth.
+With over **5+ years of hands-on experience**, I am a dedicated and innovative developer based in Sunsari, Inaruwa 🇳🇵. My core expertise lies in architecting and building robust **Odoo ERP solutions**, **ERP SaaS platforms**, and intelligent **AI agents**. I am passionate about leveraging technology to streamline business operations, enhance decision-making, and drive significant growth.
 
-I thrive on transforming complex business requirements into scalable, efficient, and user-friendly software. My approach focuses on delivering tangible value, whether it\%27s optimizing workflows with custom ERP modules or deploying AI agents that automate tasks and provide actionable insights. I am a strong advocate for clean code, continuous learning, and contributing to the open-source community.
+I thrive on transforming complex business requirements into scalable, efficient, and user-friendly software. My approach focuses on delivering tangible value, whether it's optimizing workflows with custom Odoo modules or deploying AI agents that automate tasks and provide actionable insights. I am a strong advocate for clean code, continuous learning, and contributing to the open-source community.
 
 ### 📈 How I Drive Business Growth
+*   **Odoo ERP Development:** End-to-end Odoo implementation from v14 to v18. Building custom modules, customizing POS, Inventory, Accounting, CRM, and HRMS. QWeb report design, automated actions, and server actions for workflow automation.
+*   **Odoo Integration & Migration:** API integration with external SaaS, payment gateways, e-commerce, and logistics. Version migration and data migration with 99.9% accuracy using XML-RPC and ORM methods.
 *   **ERP SaaS Architecture:** Designing scalable multi-tenant architectures that support business expansion and operational efficiency.
-*   **AI-Driven Automation:** Implementing AI agents to automate repetitive tasks, reducing operational costs and improving accuracy.
-*   **Data-Driven Insights:** Building analytics dashboards within SaaS platforms to provide actionable business intelligence.
-*   **Performance Optimization:** Ensuring high availability and fast response times to enhance user experience and retention.
+*   **AI-Driven Automation:** Implementing AI agents to automate repetitive tasks, reducing operational costs and improving accuracy. Integrating LLMs with Odoo for smart chatbots and document processing.
+*   **Data-Driven Insights:** Building analytics dashboards within Odoo and SaaS platforms to provide actionable business intelligence.
+*   **Performance Optimization:** Optimizing Odoo ORM queries, PostgreSQL indexing, and deploying with Nginx + Gunicorn + Redis for high availability and fast response times.
 
 ---
 
@@ -35,7 +37,7 @@ I thrive on transforming complex business requirements into scalable, efficient,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,react,nextjs,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,git,docker,aws,gcp,githubactions&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=odoo,ts,py,js,html,css,react,nextjs,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,git,docker,aws,gcp,githubactions&perline=11" alt="Tech Stack" />
   </a>
 </div>
 
@@ -45,15 +47,15 @@ I thrive on transforming complex business requirements into scalable, efficient,
   <tr>
     <td align="center" width="33%">
       <h3>💻 Languages</h3>
-      <p>TypeScript, Python, JavaScript, HTML5, CSS3</p>
+      <p>TypeScript, Python, JavaScript, HTML5, CSS3, XML</p>
     </td>
     <td align="center" width="33%">
       <h3>🌐 Frontend</h3>
-      <p>React.js, Next.js, Tailwind CSS, Redux</p>
+      <p>React.js, Next.js, Tailwind CSS, Redux, Odoo OWL</p>
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <p>Node.js, Express.js, Django, Flask, FastAPI</p>
+      <h3>⚙️ Backend & ERP</h3>
+      <p><strong>Odoo</strong>, Node.js, Express.js, Django, Flask, FastAPI</p>
     </td>
   </tr>
   <tr>
@@ -63,7 +65,7 @@ I thrive on transforming complex business requirements into scalable, efficient,
     </td>
     <td align="center" width="33%">
       <h3>☁️ DevOps & Cloud</h3>
-      <p>Docker, AWS, GCP, GitHub Actions, CI/CD</p>
+      <p>Docker, AWS, GCP, GitHub Actions, Nginx, CI/CD</p>
     </td>
     <td align="center" width="33%">
       <h3>🤖 AI & ML</h3>
@@ -71,6 +73,19 @@ I thrive on transforming complex business requirements into scalable, efficient,
     </td>
   </tr>
 </table>
+
+---
+
+### 🔧 Odoo Expertise Breakdown
+
+| Area | Skills & Modules |
+| --- | --- |
+| **Core Development** | Custom Module Development, ORM, QWeb, OWL Framework, Security Groups, Access Rights |
+| **Functional Modules** | Sales, Purchase, Inventory, Manufacturing, Accounting, POS, HRMS, Project, Helpdesk |
+| **Integration** | REST API, XML-RPC, JSON-RPC, WhatsApp API, Payment Gateways, Shipping APIs, Shopify/WooCommerce |
+| **Reporting** | QWeb PDF Reports, XLSX Reports, Pivot & Graph Views, KPI Dashboards |
+| **Deployment** | Odoo.sh, AWS EC2, Docker, Nginx, Gunicorn, PostgreSQL Tuning, Redis Caching |
+| **Migration** | v14 → v18 Migration, Data Migration Scripts, Automated Testing |
 
 ---
 
@@ -94,10 +109,10 @@ I thrive on transforming complex business requirements into scalable, efficient,
 I\%27m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/procatesoft/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:procate.soft@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-website.com">
@@ -112,6 +127,4 @@ I\%27m always open to discussing new projects, creative ideas, or opportunities 
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a2e,16213e,0f3460,533483,e94560&height=100&section=footer" alt="Footer" />
-  <br>
-  <i>Generated with ❤️ by Manus AI</i>
 </div>
