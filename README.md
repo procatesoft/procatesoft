@@ -114,6 +114,16 @@ OWASP-aligned builds, vulnerability audits and remediation. Security designed in
 
 </div>
 
+## Open source & community
+
+Building in public where it makes sense, and giving back where it counts.
+
+- Studying and forking agent-orchestration tooling — [orca](https://github.com/procatesoft/orca) · [ORCH](https://github.com/procatesoft/ORCH)
+- Practical notes on software, ERP and security at **[procatesoft.com/blog](https://procatesoft.com/blog/)**
+- Happy to answer questions about Odoo, Django and multi-tenant SaaS
+
+For a build like this, the fastest path is [info@procatesoft.com](mailto:info@procatesoft.com).
+
 ## Work with me
 
 I take on a small number of projects at a time so each one gets real attention. Fixed scope, fixed quote, no surprises.
