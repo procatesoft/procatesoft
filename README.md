@@ -107,8 +107,7 @@ OWASP-aligned builds, vulnerability audits and remediation. Security designed in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codecrushdev&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF007F&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrushdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&count_private=true&langs_count=8" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrushdev&theme=github_dark" alt="Contribution summary" />
 
 <br/>
 
