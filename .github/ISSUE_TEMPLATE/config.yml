@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project & consulting enquiries
+    url: https://procatesoft.com/#contact
+    about: For builds, ERP, SaaS or security work, use the website contact form.
+  - name: Report a security vulnerability
+    url: https://github.com/procatesoft/procatesoft/security/policy
+    about: Please report security issues privately, never as a public issue.
