@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=190&section=header&text=Pankaj%20Mehta&fontSize=68&fontColor=ffffff&desc=Founder%20%40%20ProcateSoft&descAlignY=60&descSize=16" alt="Pankaj Mehta" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=170&section=header&text=Pankaj%20Mehta&fontSize=64&fontColor=ffffff" alt="Pankaj Mehta" />
 
 <a href="https://procatesoft.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=00E5FF&center=true&vCenter=true&width=740&lines=I+build+software+that+runs+businesses.;ERP+systems+%C2%B7+multi-tenant+SaaS+%C2%B7+web+%26+mobile+apps;AI+agents+that+automate+real+work;5%2B+years+shipping+to+production" alt="What I build" />
