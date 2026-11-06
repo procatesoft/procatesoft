@@ -124,6 +124,22 @@ Building in public where it makes sense, and giving back where it counts.
 
 For a build like this, the fastest path is [info@procatesoft.com](mailto:info@procatesoft.com).
 
+## FAQ
+
+**Do you take small projects?**
+Yes — websites start at NPR 5,000, and the process is the same at any size.
+
+**Can you work with an existing codebase?**
+Yes. Most ERP work starts with someone else's implementation, an upgrade, or a
+stalled build. I audit first, then quote.
+
+**Do you work outside Nepal?**
+Yes — fully remote, in English. Payment by bank transfer or international methods.
+
+**How do you handle security?**
+OWASP-aligned builds and code review as standard, plus a written findings list
+when you commission an audit.
+
 ## Work with me
 
 I take on a small number of projects at a time so each one gets real attention. Fixed scope, fixed quote, no surprises.
