@@ -14,7 +14,6 @@
 [![Email](https://img.shields.io/badge/Email-info@procatesoft.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@procatesoft.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779814383193)
 
-<img src="https://komarev.com/ghpvc/?username=codecrushdev&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
